@@ -11,3 +11,4 @@ def serve():
 
 
 from app.wiki.controller import *
+from app.terms.controller import*
